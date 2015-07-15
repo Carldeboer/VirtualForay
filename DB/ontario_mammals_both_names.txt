@@ -1,0 +1,81 @@
+Bos bison	American Bison
+Canis familiaris	Feral Dog
+Canis latrans	Coyote
+Canis lupus	Grey Wolf
+Canis lycaon	Eastern Wolf or Eastern Timber Wolf
+Urocyon cinereoargenteus	Common Grey Fox
+Vulpes lagopus	Arctic Fox
+Vulpes vulpes	Red Fox
+Castor canadensis	American Beaver
+Alces alces	Moose
+Cervus canadensis	Wapiti
+Odocoileus virginianus	White-tailed Deer
+Rangifer tarandus	Caribou
+Didelphis virginiana	Virginia Opossum
+Erethizon dorsatum	North American Porcupine
+Felis catus	Feral Cat
+Lynx canadensis	Canada Lynx
+Lynx rufus	Bobcat
+Puma concolor	Mountain Lion
+Lepus americanus	Snowshoe Hare
+Lepus arcticus	Arctic Hare
+Lepus europaeus	Cape Hare
+Lepus townsendii	White-tailed Jackrabbit
+Sylvilagus floridanus	Eastern Cottontail
+Mephitis mephitis	Striped Skunk
+Clethrionomys gapperi	Southern Red-backed Vole
+Microtus chrotorrhinus	Rock Vole
+Microtus pennsylvanicus	Meadow Vole
+Microtus pinetorum	Woodland Vole
+Mus musculus	House Mouse
+Ondatra zibethicus	Common Muskrat
+Peromyscus leucopus	White-footed Mouse
+Peromyscus maniculatus	Deer Mouse
+Phenacomys ungava	Eastern Heather Vole
+Rattus norvegicus	Norway Rat
+Rattus rattus	Black Rat
+Synaptomys borealis	Northern Bog Lemming
+Synaptomys cooperi	Southern Bog Lemming
+Gulo gulo	Wolverine
+Lontra canadensis	Northern River Otter
+Martes americana	American Marten
+Martes pennanti	Fisher
+Mustela erminea	Ermine
+Mustela frenata	Long-tailed Weasel
+Mustela nivalis	Least Weasel
+Mustela vison	American Mink
+Taxidea taxus	American Badger
+Procyon lotor	Northern Raccoon
+Glaucomys sabrinus	Northern Flying Squirrel
+Glaucomys volans	Southern Flying Squirrel
+Marmota monax	Woodchuck
+Neotamias minimus	Least Chipmunk
+Sciurus carolinensis	Eastern Grey Squirrel
+Sciurus niger	Eastern Fox Squirrel
+Spermophilus franklinii	Franklin's Ground Squirrel
+Spermophilus tridecemlineatus	Thirteen-lined Ground Squirrel
+Tamias striatus	Eastern Chipmunk
+Tamiasciurus hudsonicus	Red Squirrel
+Blarina brevicauda	Northern Short-tailed Shrew
+Cryptotis parva	Least Shrew
+Sorex arcticus	Arctic Shrew
+Sorex cinereus	Masked Shrew
+Sorex fumeus	Smoky Shrew
+Sorex hoyi	Pygmy Shrew
+Sorex palustris	American Water Shrew
+Condylura cristata	Star-nosed Mole
+Parascalops breweri	Hairy-tailed Mole
+Scalopus aquaticus	Eastern Mole
+Ursus americanus	American Black Bear
+Ursus maritimus	Polar Bear
+Eptesicus fuscus	Big Brown Bat
+Lasionycteris noctivagans	Silver-haired Bat
+Lasiurus borealis	Eastern Red Bat
+Lasiurus cinereus	Hoary Bat
+Myotis leibii	Eastern Small-footed Myotis
+Myotis lucifugus	Little Brown Myotis
+Myotis septentrionalis	Northern Long-eared Myotis
+Nycticeius humeralis	Evening Bat
+Pipistrellus subflavus	Eastern Pipistrelle
+Napaeozapus insignis	Woodland Jumping Mouse
+Zapus hudsonius	Meadow Jumping Mouse

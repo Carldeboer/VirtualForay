@@ -1,0 +1,302 @@
+Agaricus arvensis
+Agrocybe erebia
+Amanita citrina
+Amanita flavoconia
+Amanita fulva
+Amanita muscaria OR muscaria var. formosa
+Amanita porphyria
+Amanita rubescens
+Amanita vaginata
+Amanita virosa
+Armillaria gallica OR bulbosa
+Armillaria mellea OR gallica OR ostoyae
+Armillaria ostoyae
+Baeospora myosura
+Cantharellula umbonata
+Catathelasma ventricosa
+Chroogomphus rutilus
+Clitocybe candicans
+Clitocybe clavipes
+Clitocybe ectypoides OR Pseudoarmillaria ectypoides
+Clitocybe fragrans
+Clitocybe martiorum
+Clitocybe phaeophthalma OR adirondackensis
+Clitopilus prunulus
+Collybia cookei
+Collybia tuberosa
+Coprinus atramentarius
+Coprinus lagopus
+Coprinus plicatilis
+Cortinarius alboviolaceus
+Cortinarius angelesianus
+Cortinarius anomalus
+Cortinarius annulatus
+Cortinarius armillatus
+Cortinarius biformis
+Cortinarius bivelus
+Cortinarius bolaris
+Cortinarius bovinus
+Cortinarius brunneus
+Cortinarius caerulescens
+Cortinarius camphoratus
+Cortinarius caninus
+Cortinarius collinitus
+Cortinarius delibutus
+Cortinarius flexipes
+Cortinarius fulvo-ochrascens
+Cortinarius illuminus
+Cortinarius incognitus
+Cortinarius infractus
+Cortinarius laniger
+Cortinarius limonius
+Cortinarius scaurus
+Cortinarius subtortus
+Cortinarius traganus
+Cortinarius violaceus
+Cyptotrama asprata
+Cystoderma amianthinum
+Cystoderma granosum
+Entoloma abortivum
+Entoloma albogriseum
+Entoloma nidorosum
+Entoloma nitidum
+Gomphidius glutinosus
+Gymnopus acervatus OR Collybia acervata
+Gymnopilus penetrans
+Hygrocybe cantharellus
+Hygrocybe chlorophana
+Hygrocybe conica
+Hygrocybe lacmus OR Hygrophorous subviolaceus
+Hygrocybe marginata
+Hygrocybe miniata
+Hygrocybe pratensis OR Camarophyllus pratensis
+Hygrocybe punicea
+Hygrocybe squamulosa
+Hygrocybe virginea OR Camarophyllus borealis OR Camarophyllus niveus
+Hygrophorus camarophyllus
+Hygrophorus erubescens
+Hygrophorus flavodiscus
+Hygrophorus pudorinus
+Hygrophorus purpurascens
+Hygrophorus speciosus
+Hypholoma myosotis
+Hypholoma sublateritium OR Naematoloma sublateritium
+Hypholoma udum
+Hypsizygus tessulatus
+Hypsizygus ulmarius
+Inocybe albodisca
+Inocybe geophylla
+Inocybe lacera
+Laccaria bicolor
+Laccaria laccata
+Laccaria striatula
+Lactarius affinis
+Lactarius camphoratus
+Lactarius deceptivus
+Lactarius deterrimus
+Lactarius gerardii
+Lactarius griseus
+Lactarius hibbardae OR mammosus
+Lactarius hysginus var. hysginus
+Lactarius lignyotellus OR lignyotus var. marginatus
+Lactarius lignyotus
+Lactarius mucidus
+Lactarius oculatus
+Lactarius rufus
+Lactarius subpurpureus
+Lactarius thejogalus
+Lactarius thyinos
+Lactarius turpis OR sordidus
+Lactarius uvidus
+Lactarius vietus
+Lactarius vinaceorufescens
+Lentinus levis OR Pleurotus levis OR Panus strigosus
+Lepista nuda
+Leucopaxillus albissimus OR cerealis
+Leucopholiota decorosa
+Lyophyllum connatum
+Lyophyllum decastes
+Marasmius cohaerens
+Marasmius rotula
+Mycena galericulata
+Mycena leaiana
+Nolanea conica
+Nolanea quadrata OR Entoloma salmoneum
+Panellus serotinus
+Panellus stipticus
+Paxillus atrotomentosus
+Paxillus involutus
+Pholiota alnicola
+Pholiota aurivella
+Pholiota limonella
+Pholiota spumosa
+Pholiota squarrosa
+Pholiota squarrosoides
+Phyllotopsis nidulans
+Pleurocybella porrigens OR Phyllotus porrigens
+Pleurotus dryinus
+Pleurotus ostreatus
+Plicaturopsis crispa
+Boletus subtomentosus
+Boletus subvelutipes
+Chalciporus piperatus OR Boletus piperatus
+Gyrodon merulioides OR Boletinellus merulioides
+Gyroporus cyanescens
+Leccinum holopus
+Leccinum scabrum
+Leccinum snellii
+Pulveroboletus ravenelii
+Suillus americanus
+Suillus cavipes OR Boletinus cavipes
+Suillus granulatus
+Suillus grevillei
+Suillus luteus
+Suillus paluster OR Fuscoboletinus paluster
+Suillus pictus OR spraguei
+Tylopilus felleus
+Albatrellus ovinus
+Bjerkandera adusta
+Cerrena unicolor
+Coltricia cinnamomea
+Fomes fomentarius
+Fomitopsis pinicola
+Fomitopsis spraguei
+Ganoderma applanatum
+Ganoderma lucidum
+Ganoderma tsugae
+Gloeophyllum sepiarium
+Hapalopilus rutilans
+Inonotus obliquus
+Inonotus tomentosus
+Ischnoderma resinosum
+Oxyporus populinus
+Phellinus ferruginosus
+Phellinus igniarius
+Phlebia tremellosa
+Piptoporus betulinus
+Polyporus badius
+Polyporus brumalis
+Polyporus varius OR elegans
+Postia caesia OR Oligoporus caesius
+Postia fragilis OR Oligoporus fragilis
+Postia stiptica
+Pycnoporellus fulgens
+Pycnoporus cinnabarinus
+Stereum complicatum
+Stereum ostrea
+Trametes elegans
+Trametes pubescens
+Trametes versicolor
+Trichaptum abietinum
+Trichaptum biforme
+Tyromyces chioneus OR Oligoporus chioneus
+Cantharellus cibarius
+Cantharellus cinnabarinus
+Cantharellus lutescens
+Cantharellus tubaeformis
+Gomphus clavatus
+Bankera violascens
+Climacodon septentrionale
+Hericium americanum
+Hericium coralloides OR ramosum
+Hydnellum caeruleum
+Hydnellum concrescens
+Hydnum repandum OR Dentinum repandum
+Hydnum umbilicatum OR Dentinum umbilicatum
+Clavaria vermicularis
+Clavulina cinerea
+Clavulina cristata
+Ramaria rubella
+Ramaria stricta
+Ramariopsis kunzei
+Thelephora terrestris
+Pluteus admirabilis
+Pluteus cervinus OR atricapillus
+Pluteus longistriatus
+Pluteus nanus
+Pseudoclitocybe cyathiformis OR Clitocybe cyathiformis
+Rhodocollybia maculata OR Collybia maculata
+Rickenella fibula
+Rozites caperata
+Russula albonigra
+Russula aquosa
+Russula brevipes
+Russula brunneola
+Russula claroflava
+Russula emetica
+Russula fragilis
+Russula laurocerasi
+Russula mariae
+Russula paludosa
+Russula peckii
+Schizophyllum commune
+Stropharia hornemannii
+Stropharia semiglobata
+Tricholoma focale
+Tricholoma fulvum
+Tricholoma magnivelare
+Tricholoma roseoacerbum
+Tricholoma saponaceum
+Tricholoma sejunctum OR subsejunctum
+Tricholoma subluteum
+Tricholoma subresplendens OR columbetta
+Tricholoma transmutans
+Tricholoma vaccinum
+Tricholoma virgatum
+Tricholomopsis rutilans
+Tricholomopsis sulfureoides
+Tubaria confragosa
+Xerula furfuracea
+Austroboletus gracilis OR Tylopilus gracilis
+Boletus affinis var. maculosus OR Xanthoconium affine
+Boletus badius
+Boletus edulis
+Boletus flammans
+Astraeus hygrometricus
+Lycoperdon americanum
+Lycoperdon excipuliforme
+Lycoperdon pratense
+Lycoperdon pyriforme
+Scleroderma citrinum
+Calocera viscosa
+Dacrymyces chrysocomus
+Pseudohydnum gelatinosum
+Bisporella citrina
+Chlorociboria aeruginascens
+Cordyceps longisegmentis
+Cordyceps ophioglossoides
+Cudonia circinans
+Elaphomyces granulatus
+Gyromitra infula
+Helvella crispa
+Helvella macropus
+Hymenoscyphus epiphyllus
+Hypomyces chrysospermus
+Hypomyces lactifluorum
+Hypoxylon fragiforme
+Lachnellula calyciformis
+Leotia lubrica
+Neolecta irregularis
+Nectriopsis violacea
+Orbilia delicatula
+Orbilia inflatula
+Otidia onotica
+Pachyella clypeata
+Peziza badia
+Peziza repanda
+Scutellinia scutellata
+Taphrina alni
+Ustulina deusta
+Xylaria hypoxylon
+Xylaria polymorpha
+Xenasmatella vaga
+Arcyria incarnata
+Fuligo septica
+Hemitrichia clavata
+Hemitrichia serpula parasitized by Byssostilbe stilbigera
+Lycogala epidendrum
+Lycogala flavofuscum
+Trichia botrytis
+Trichia scabra
+Trichia varia
+Tubifera ferruginosa

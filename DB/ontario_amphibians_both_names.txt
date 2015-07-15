@@ -1,0 +1,25 @@
+Ambystoma jeffersonianum	Jefferson Salamander
+Ambystoma laterale	Blue-spotted Salamander
+Ambystoma maculatum	Spotted Salamander
+Ambystoma texanum	Small-mouthed Salamander
+Ambystoma tigrinum	Tiger Salamander
+Bufo americanus	American Toad
+Bufo fowleri	Fowler's Toad
+Acris crepitans	Northern Cricket Frog
+Hyla versicolor	Gray Treefrog
+Pseudacris crucifer	Spring Peeper
+Pseudacris maculata	Boreal Chorus Frog
+Pseudacris triseriata	Western Chorus Frog
+Desmognathus fuscus	Northern Dusky Salamander
+Eurycea bislineata	Northern Two-lined Salamander
+Gyrinophilus porphyriticus	Spring Salamander
+Hemidactylium scutatum	Four-toed Salamander
+Plethodon cinereus	Northern Red-backed Salamander
+Necturus maculosus	Mudpuppy
+Rana catesbeiana	Bullfrog
+Rana clamitans	Green Frog
+Rana palustris	Pickerel Frog
+Rana pipiens	Northern Leopard Frog
+Rana septentrionalis	Mink Frog
+Rana sylvatica	Wood Frog
+Notophthalmus viridescens	Eastern Newt

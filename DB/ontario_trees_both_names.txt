@@ -1,0 +1,145 @@
+"Balsam Fir" OR "Abies balsamea"		leaf	twig	bark
+"Manitoba Maple" OR "Acer negundo"		leaf	twig	bark
+"Black Maple" OR "Acer nigrum"		leaf	twig	bark
+"Sugar Maple" OR "Acer saccharum"		leaf	twig	bark
+"Ohio Buckeye" OR "Aesculus glabra"		leaf	twig	bark
+"Speckled Alder" OR "Alnus incana"		leaf	twig	bark
+"Speckled alder" OR "Alnus rugosa"		leaf	twig	bark
+"Green Alder" OR "Alnus viridis"		leaf	twig	bark
+"Downy Serviceberry" OR "Amelanchier arborea"		leaf	twig	bark
+"Mountain Juneberry" OR "Amelanchier bartramiana"		leaf	twig	bark
+"Swamp Serviceberry" OR "Amelanchier canadensis"		leaf	twig	bark
+"Low Serviceberry" OR "Amelanchier humilis"		leaf	twig	bark
+"Smooth Serviceberry" OR "Amelanchier laevis"		leaf	twig	bark
+"False Indigo" OR "Amorpha fruticosa"		leaf	twig	bark
+"Bog Rosemary" OR "Andromeda polifolia"		leaf	twig	bark
+"Hercules' Club" OR "Aralia elata"		leaf	twig	bark
+"Bearberry" OR "Arctostaphylos uva-ursi"		leaf	twig	bark
+"Dutchman's Pipe" OR "Aristolochia macrophylla"		leaf	twig	bark
+"Chokeberry" OR "Aronia melanocarpa"		leaf	twig	bark
+"Yellow Birch" OR "Betula alleghaniensis"		leaf	twig	bark
+"Cherry Birch" OR "Betula lenta"		leaf	twig	bark
+"White Birch" OR "Betula papyrifera"		leaf	twig	bark
+"Gray Birch" OR "Betula populifolia"		leaf	twig	bark
+"Dwarf Birch" OR "Betula pumila"		leaf	twig	bark
+"Trumpet Creeper" OR "Campsis radicans"		leaf	twig	bark
+"Blue-beech" OR "Carpinus caroliniana"		leaf	twig	bark
+"Bitternut Hickory" OR "Carya cordiformis"		leaf	twig	bark
+"Shellbark Hickory" OR "Carya laciniosa"		leaf	twig	bark
+"Shagbark Hickory" OR "Carya ovata"		leaf	twig	bark
+"American Chestnut" OR "Castanea dentata"		leaf	twig	bark
+"Narrow-leaved New Jersey Tea" OR "Ceanothus herbaceus"		leaf	twig	bark
+"Buttonbush" OR "Cephalanthus occidentalis"		leaf	twig	bark
+"Redbud" OR "Cercis canadensis"		leaf	twig	bark
+"Leatherleaf" OR "Chamaedaphne calyculata"		leaf	twig	bark
+"Striped Wintergreen" OR "Chimaphila maculata"		leaf	twig	bark
+"Pipsissewa" OR "Chimaphila umbellata"		leaf	twig	bark
+"Virgin's Bower" OR "Clematis virginiana"		leaf	twig	bark
+"Sweetfern" OR "Comptonia peregrina"		leaf	twig	bark
+"Alternate-leaved Dogwood" OR "Cornus alternifolia"		leaf	twig	bark
+"Bunchberry" OR "Cornus canadensis"		leaf	twig	bark
+"Flowering Dogwood" OR "Cornus florida"		leaf	twig	bark
+"Gray Dogwood" OR "Cornus racemosa"		leaf	twig	bark
+"Red Osier Dogwood" OR "Cornus sericea"		leaf	twig	bark
+"Shrubby Cinquefoil" OR "Dasiphora floribunda"		leaf	twig	bark
+"Bush Honeysuckle" OR "Diervilla lonicera"		leaf	twig	bark
+"Leatherwood" OR "Dirca palustris"		leaf	twig	bark
+"Drummond's Mountain Avens" OR "Dryas drummondii"		leaf	twig	bark
+"Trailing Arbutus" OR "Epigaea repens"		leaf	twig	bark
+"Beech" OR "Fagus grandifolia"		leaf	twig	bark
+"White Ash" OR "Fraxinus americana"		leaf	twig	bark
+"Black Ash" OR "Fraxinus nigra"		leaf	twig	bark
+"Green Ash" OR "Fraxinus pennsylvanica"		leaf	twig	bark
+"Red Ash" OR "Fraxinus pensylvanica"		leaf	twig	bark
+"Pumpkin Ash" OR "Fraxinus profunda"		leaf	twig	bark
+"Blue Ash" OR "Fraxinus quadrangulata"		leaf	twig	bark
+"Creeping Snowberry" OR "Gaultheria hispidula"		leaf	twig	bark
+"Wintergreen" OR "Gaultheria procumbens"		leaf	twig	bark
+"Honey Locust" OR "Gleditsia triacanthos"		leaf	twig	bark
+"Kentucky Coffee Tree" OR "Gymnocladus dioicus"		leaf	twig	bark
+"Witch Hazel" OR "Hamamelis virginiana"		leaf	twig	bark
+"Kalm's St Johnswort" OR "Hypericum kalmianum"		leaf	twig	bark
+"Winterberry" OR "Ilex verticillata"		leaf	twig	bark
+"Butternut" OR "Juglans cinerea"		leaf	twig	bark
+"Black Walnut" OR "Juglans nigra"		leaf	twig	bark
+"Eastern Red Cedar" OR "Juniperus virginiana"		leaf	twig	bark
+"Tamarack" OR "Larix laricina"		leaf	twig	bark
+"Spicebush" OR "Lindera benzoin"		leaf	twig	bark
+"Twinflower" OR "Linnaea borealis"		leaf	twig	bark
+"Tulip Tree" OR "Liriodendron tulipifera"		leaf	twig	bark
+"American Fly Honeysuckle" OR "Lonicera canadensis"		leaf	twig	bark
+"Cucumber Magnolia" OR "Magnolia acuminata"		leaf	twig	bark
+"Apple" OR "Malus domestica"		leaf	twig	bark
+"Canada Moonseed" OR "Menispermum canadense"		leaf	twig	bark
+"Partridgeberry" OR "Mitchella repens"		leaf	twig	bark
+"Sweet Gale" OR "Myrica gale"		leaf	twig	bark
+"Bayberry" OR "Myrica pensylvanica"		leaf	twig	bark
+"Mountain Holly" OR "Nemopanthus mucronata"		leaf	twig	bark
+"Prickly Pear Cactus" OR "Opuntia humifusa"		leaf	twig	bark
+"Ironwood" OR "Ostrya virginiana"		leaf	twig	bark
+"White Spruce" OR "Picea glauca"		leaf	twig	bark
+"Black Spruce" OR "Picea mariana"		leaf	twig	bark
+"Red spruce" OR "Picea rubens"		leaf	twig	bark
+"Jack Pine" OR "Pinus banksiana"		leaf	twig	bark
+"Red Pine" OR "Pinus resinosa"		leaf	twig	bark
+"Pitch Pine" OR "Pinus rigida"		leaf	twig	bark
+"Eastern White Pine" OR "Pinus strobus"		leaf	twig	bark
+"Sycamore" OR "Platanus occidentalis"		leaf	twig	bark
+"Balsam Poplar" OR "Populus balsamifera"		leaf	twig	bark
+"Eastern Cottonwood" OR "Populus deltoides"		leaf	twig	bark
+"Large-toothed Aspen" OR "Populus grandidentata"		leaf	twig	bark
+"Trembling Aspen" OR "Populus tremuloides"		leaf	twig	bark
+"Canada Plum" OR "Prunus nigra"		leaf	twig	bark
+"Sand Cherry" OR "Prunus pumila"		leaf	twig	bark
+"Chokecherry" OR "Prunus virginiana"		leaf	twig	bark
+"Hop Tree" OR "Ptelea trifoliata"		leaf	twig	bark
+"Hill's Oak" OR "Quercus ellipsoidalis"		leaf	twig	bark
+"Chinquapin Oak" OR "Quercus meuhlenbergii"		leaf	twig	bark
+"Dwarf Chinquapin Oak" OR "Quercus prinoides"		leaf	twig	bark
+"Shumard Oak" OR "Quercus shumardii"		leaf	twig	bark
+"Alder-leaved Buckthorn" OR "Rhamnus alnifolia"		leaf	twig	bark
+"Fragrant Sumac" OR "Rhus aromatica"		leaf	twig	bark
+"Wild Black Currant" OR "Ribes americanum"		leaf	twig	bark
+"Prickly Gooseberry" OR "Ribes cynosbati"		leaf	twig	bark
+"Wild Gooseberry" OR "Ribes hirtellum"		leaf	twig	bark
+"Northern Wild Black Currant" OR "Ribes hudsonianum"		leaf	twig	bark
+"Bristly Wild Gooseberry" OR "Ribes oxyacanthoides spp. oxyacanthoides"		leaf	twig	bark
+"Black Locust" OR "Robinia pseudoacacia"		leaf	twig	bark
+"Prickly Wild Rose" OR "Rosa acicularis"		leaf	twig	bark
+"Swamp Rose" OR "Rosa palustris"		leaf	twig	bark
+"Prairie Rose" OR "Rosa setigera"		leaf	twig	bark
+"Baked-apple Berry" OR "Rubus chamaemorus"		leaf	twig	bark
+"Wild Red Raspberry" OR "Rubus idaeus"		leaf	twig	bark
+"Black Raspberry" OR "Rubus occidentalis"		leaf	twig	bark
+"Purple-flowering Raspberry" OR "Rubus odoratus"		leaf	twig	bark
+"Bebb's Willow" OR "Salix bebbiana"		leaf	twig	bark
+"Sage-leaved Willow" OR "Salix candida"		leaf	twig	bark
+"Heart-leaved Willow" OR "Salix cordata"		leaf	twig	bark
+"Pussy Willow" OR "Salix discolor"		leaf	twig	bark
+"Missouri Willow" OR "Salix eriocephala"		leaf	twig	bark
+"Sandbar Willow" OR "Salix exigua"		leaf	twig	bark
+"Prairie Willow" OR "Salix humilis"		leaf	twig	bark
+"Shining Willow" OR "Salix lucida"		leaf	twig	bark
+"Black Willow" OR "Salix nigra"		leaf	twig	bark
+"Laurel Willow" OR "Salix pentandra"		leaf	twig	bark
+"Basket Willow" OR "Salix purpurea"		leaf	twig	bark
+"Net-veined Willow" OR "Salix reticulata"		leaf	twig	bark
+"common elderberry" OR "Sambucus canadensis"		leaf	twig	bark
+"Three-toothed Cinquefoil" OR "Sibbaldiopsis tridentata"		leaf	twig	bark
+"Bladdernut" OR "Staphylea trifolia"		leaf	twig	bark
+"Yew" OR "Taxus canadensis"		leaf	twig	bark
+"Eastern White Cedar" OR "Thuja occidentalis"		leaf	twig	bark
+"Basswood" OR "Tilia americana"		leaf	twig	bark
+"Poison Ivy" OR "Toxicodendron radicans"		leaf	twig	bark
+"Poison Sumac" OR "Toxicodendron vernix"		leaf	twig	bark
+"Eastern Hemlock" OR "Tsuga canadensis"		leaf	twig	bark
+"White Elm" OR "Ulmus Americana"		leaf	twig	bark
+"Large Cranberry" OR "Vaccinium macrocarpon"		leaf	twig	bark
+"Velvetleaf Blueberry" OR "Vaccinium myrtilloides"		leaf	twig	bark
+"Small Cranberry" OR "Vaccinium oxyoccos"		leaf	twig	bark
+"Southern Arrowwood" OR "Viburnum dentatum"		leaf	twig	bark
+"Hobblebush" OR "Viburnum lantanoides"		leaf	twig	bark
+"Nannyberry" OR "Viburnum lentago"		leaf	twig	bark
+"Wild Raisin" OR "Viburnum nudum"		leaf	twig	bark
+"Downy Arrowwood" OR "Viburnum rafinesqueanum"		leaf	twig	bark
+"Prickly Ash" OR "Zanthoxylum americanum"		leaf	twig	bark

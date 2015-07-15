@@ -1,0 +1,27 @@
+Chelydra serpentina	Snapping Turtle
+Coluber constrictor	Racer
+Diadophis punctatus	Ringneck Snake
+Elaphe alleghaniensis	Eastern Ratsnake
+Elaphe gloydi	Eastern Foxsnake
+Heterodon platirhinos	Eastern Hog-nosed Snake
+Lampropeltis triangulum	Milksnake
+Nerodia sipedon	Northern Watersnake
+Opheodrys vernalis	Smooth Greensnake
+Regina septemvittata	Queen Snake
+Storeria dekayi	DeKay's Brownsnake
+Storeria occipitomaculata	Redbelly Snake
+Thamnophis butleri	Butler's Gartersnake
+Thamnophis sauritus	Eastern Ribbonsnake
+Thamnophis sirtalis	Common Gartersnake
+Chrysemys picta	Painted Turtle
+Clemmys guttata	Spotted Turtle
+Emydoidea blandingii	Blanding's Turtle
+Glyptemys insculpta	Wood Turtle
+Graptemys geographica	Northern Map Turtle
+Terrapene carolina	Eastern Box Turtle
+Trachemys scripta	Pond Slider
+Sternotherus odoratus	Stinkpot
+Eumeces fasciatus	Five-Lined Skink
+Apalone spinifera	Spiny Softshell 
+Crotalus horridus	Timber Rattlesnake
+Sistrurus catenatus	Massasauga
